@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: blueviolet;
+    color: #fff;
+}
+h1{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+img{
+    width: 150px;
+    height: 120px;
+}
